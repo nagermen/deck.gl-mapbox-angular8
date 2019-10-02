@@ -1,0 +1,9 @@
+.map-element-container {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
+.add-to-graph{
+  bottom: 250px;
+  position: absolute;
+}
